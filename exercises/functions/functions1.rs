@@ -1,7 +1,12 @@
 // functions1.rs
 // Make me compile! Execute `rustlings hint functions1` for hints :)
 
-// I AM NOT DONE
+
+
+//Need to define the call_me fxn
+fn call_me(){
+    println!{"Oh, hey there!"}
+}
 
 fn main() {
     call_me();
